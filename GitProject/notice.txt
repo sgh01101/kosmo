@@ -1,0 +1,8 @@
+    
+      
+             
+              
+                  
+                  server jndi setup rule
+                  name = "1234"
+                  
